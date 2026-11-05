@@ -1,0 +1,12 @@
+{
+  "geode": "2.0.0",
+  "id": "yourname.preview-autoplay",
+  "name": "Preview AutoPlay",
+  "version": "1.0.0",
+  "description": "Auto-tap during editor preview/playtest",
+  "developers": ["YourName"],
+  "gd": {
+    "android": "*",
+    "ios": "*"
+  }
+}
